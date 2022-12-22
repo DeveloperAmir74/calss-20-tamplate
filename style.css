@@ -1,0 +1,17 @@
+.container-fluid{
+    background-color: #e3f2fd;
+}
+.scrollspy-example{
+    height: 200px;
+    overflow:scroll;
+}
+
+ul.pagination {
+    margin-left: 57%;
+}
+.footer h3 {
+    background-color: #17a2b8;
+    text-align: center;
+    color: white;
+    padding: 10px 0px 10px 10px;
+}
